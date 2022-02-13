@@ -1,0 +1,9 @@
+{
+	"ip":"DinoLmao.aternos.me",
+	"port": "31175",
+	"name": "Notch",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/reg DITMEE DITMMEE",
+	"login-cmd":"/l DITMEE"
+}
